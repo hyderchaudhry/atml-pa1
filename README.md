@@ -2,10 +2,10 @@
 
 This repository contains one readable, unexecuted Jupyter notebook for each assignment task:
 
-- `task1/task1.ipynb` - controlled representation and inductive-bias experiments on STL-10.
-- `task2/task2.ipynb` - PACS unsupervised domain adaptation (Source-only, DAN, DANN, CDAN).
-- `task3/task3.ipynb` - PACS domain generalization (reused ERM, DAN-DG, SAM).
-- `task4/task4.ipynb` - CIFAR-10/CIFAR-100 open-set recognition (Vanilla, GCSC, PROSER).
+- [Task 1](task1/README.md): controlled representation and inductive-bias experiments on STL-10.
+- [Task 2](task2/README.md): PACS unsupervised domain adaptation (Source-only, DAN, DANN, CDAN).
+- [Task 3](task3/README.md): PACS domain generalization (reused ERM, DAN-DG, SAM).
+- [Task 4](task4/README.md): CIFAR-10/CIFAR-100 open-set recognition (Vanilla, GCSC, PROSER).
 
 The notebooks are designed to run top-to-bottom after dependencies and datasets are prepared locally. They intentionally have no executed outputs. Each has `plot` and `print_metrics` configuration switches and saves small result tables/manifests under its task-specific `results/` directory. Raw datasets, caches, and checkpoints are excluded from Git.
 
