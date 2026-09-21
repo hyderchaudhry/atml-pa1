@@ -7,3 +7,6 @@ checkpoints/
 *.pth
 *.pt
 .DS_STORE
+.DS_Store
+cache/
+external/
