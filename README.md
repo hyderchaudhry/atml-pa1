@@ -7,15 +7,25 @@ This repository contains one readable, unexecuted Jupyter notebook for each assi
 - [Task 3](task3/README.md): PACS domain generalization (reused ERM, DAN-DG, SAM).
 - [Task 4](task4/README.md): CIFAR-10/CIFAR-100 open-set recognition (Vanilla, GCSC, PROSER).
 
-The notebooks are organized in execution order after dependencies and datasets are prepared locally. Task 1 pauses for a visual review of generated cue conflicts before its final analysis. They intentionally have no executed outputs. `print_metrics=True` displays the required numerical summaries in the notebook, while `plot=True` displays figures inline with `plt.show()`. No figures directory is needed. Each notebook creates its own `results/` directory when its configuration cell runs and writes CSV/JSON data there; those files do not appear until execution. Raw datasets, caches, and checkpoints are excluded from Git.
+The notebooks are organized in execution order after dependencies and datasets are prepared. Task 1 pauses for a visual review of generated cue conflicts before its final analysis. They intentionally have no executed outputs. `print_metrics=True` displays numerical summaries; `plot=True` displays final figures inline and saves them as PNGs under the relevant `taskN/results/`. Each notebook creates that directory when its configuration cell runs and writes its small CSV/JSON/PNG outputs there. These files do not appear until execution. Raw datasets, large generated collections, external assets, and checkpoints stay outside Git.
 
 ## Setup and data
 
-Use Python 3.10+ and install the listed packages with `pip install -r requirements.txt`. Place datasets under `data/` (which is ignored): STL-10 for Task 1; PACS with `photo`, `art_painting`, `cartoon`, and `sketch` folders for Tasks 2–3; and CIFAR-10/CIFAR-100 for Task 4. Dataset downloading is disabled by default in the notebook configuration.
+Use Python 3.10+ and install the listed packages with `pip install -r requirements.txt`. In Colab, clone this Git repository under `/content/` and change the working directory to the clone root or the notebook's task folder. The notebooks find the repository by its tracked files, so the clone name does not matter. They mount Google Drive at `/content/drive` and create `/content/drive/MyDrive/ATML_PA1/` subdirectories automatically:
+
+```text
+ATML_PA1/
+├── data/                 # STL-10, PACS, CIFAR-10, CIFAR-100
+├── checkpoints/task1/ ... task4/
+├── artifacts/task1/ ... task4/
+└── external/             # cited AdaIN implementation and weights
+```
+
+Place datasets under `ATML_PA1/data/`: the extracted STL-10 `stl10_binary/` folder, `PACS/<domain>/<class>/` with lowercase `photo`, `art_painting`, `cartoon`, and `sketch`, and torchvision's extracted `cifar-10-batches-py/` and `cifar-100-python/` folders. Dataset downloading remains disabled by default. The configuration raises a clear error if a required Drive dataset or checkpoint is missing.
 
 Run Task 2 before Task 3: Task 3 loads the selected Source-only checkpoint from Task 2, as required by the manual. Do not run any Task 3 Sketch code until all source-side configurations are locked. Likewise, leave Task 4's CIFAR-100 loading in its final-evaluation section only.
 
-For Google Colab, clone the repository and change the working directory to its root (for a standard clone: `%cd /content/atml-pa1`) before running a notebook. The code locates the root using tracked files and creates paths such as `/content/atml-pa1/task2/results/`. Colab runtime storage is temporary, so download the resulting CSV/JSON files and checkpoints or copy them to Drive after a run.
+The Git clone is not stored in Drive. Checkpoints, AdaIN-generated images, and external assets persist in Drive; final result tables and figures are written directly to the clone's `taskN/results/`. After a run, commit and push those small outputs from the Colab clone (`git status`, `git add .`, `git commit`, `git push`) before its temporary runtime resets. Task 1's small review manifest is also in `task1/results/`; commit it after the visual review to preserve acceptance decisions. Do not add datasets or model files to Git.
 
 ## External resources and attribution
 

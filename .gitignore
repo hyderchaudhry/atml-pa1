@@ -10,4 +10,4 @@ checkpoints/
 .DS_Store
 cache/
 external/
-task1/results/cue_conflicts/
+artifacts/
