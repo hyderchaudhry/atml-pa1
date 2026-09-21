@@ -25,7 +25,7 @@ Place datasets under `ATML_PA1/data/`: the extracted STL-10 `stl10_binary/` fold
 
 Run Task 2 before Task 3: Task 3 loads the selected Source-only checkpoint from Task 2, as required by the manual. Do not run any Task 3 Sketch code until all source-side configurations are locked. Likewise, leave Task 4's CIFAR-100 loading in its final-evaluation section only.
 
-The Git clone is not stored in Drive. Checkpoints, AdaIN-generated images, and external assets persist in Drive; final result tables and figures are written directly to the clone's `taskN/results/`. After a run, commit and push those small outputs from the Colab clone (`git status`, `git add .`, `git commit`, `git push`) before its temporary runtime resets. Task 1's small review manifest is also in `task1/results/`; commit it after the visual review to preserve acceptance decisions. Do not add datasets or model files to Git.
+The Git clone is not stored in Drive. Checkpoints, AdaIN-generated images, external assets, and pretrained-weight caches persist in Drive; final result tables and figures are written directly to the clone's `taskN/results/`. After a run, commit and push those small outputs from the Colab clone (`git status`, `git add .`, `git commit`, `git push`) before its temporary runtime resets. Task 1's small review manifest is also in `task1/results/`; commit it after the visual review to preserve acceptance decisions. Do not add datasets or model files to Git.
 
 ## External resources and attribution
 
