@@ -11,7 +11,7 @@ The notebooks are designed to run top-to-bottom after dependencies and datasets 
 
 ## Setup and data
 
-Use Python 3.10+ with PyTorch, torchvision, open-clip-torch, NumPy, pandas, scikit-learn, Matplotlib, Seaborn, Pillow, SciPy, and tqdm. Place datasets under `data/` (which is ignored): STL-10 for Task 1; PACS with `photo`, `art_painting`, `cartoon`, and `sketch` folders for Tasks 2–3; and CIFAR-10/CIFAR-100 for Task 4. Dataset downloading is disabled by default in the notebook configuration.
+Use Python 3.10+ and install the listed packages with `pip install -r requirements.txt`. Place datasets under `data/` (which is ignored): STL-10 for Task 1; PACS with `photo`, `art_painting`, `cartoon`, and `sketch` folders for Tasks 2–3; and CIFAR-10/CIFAR-100 for Task 4. Dataset downloading is disabled by default in the notebook configuration.
 
 Run Task 2 before Task 3: Task 3 loads the selected Source-only checkpoint from Task 2, as required by the manual. Do not run any Task 3 Sketch code until all source-side configurations are locked. Likewise, leave Task 4's CIFAR-100 loading in its final-evaluation section only.
 

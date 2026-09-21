@@ -1,0 +1,12 @@
+# Install into an isolated environment before running the notebooks.
+torch
+torchvision
+open_clip_torch
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+scipy
+tqdm
