@@ -7,7 +7,7 @@ This repository contains one readable, unexecuted Jupyter notebook for each assi
 - [Task 3](task3/README.md): PACS domain generalization (reused ERM, DAN-DG, SAM).
 - [Task 4](task4/README.md): CIFAR-10/CIFAR-100 open-set recognition (Vanilla, GCSC, PROSER).
 
-The notebooks are designed to run top-to-bottom after dependencies and datasets are prepared locally. They intentionally have no executed outputs. Each has `plot` and `print_metrics` configuration switches and saves small result tables/manifests under its task-specific `results/` directory. Raw datasets, caches, and checkpoints are excluded from Git.
+The notebooks are organized in execution order after dependencies and datasets are prepared locally. Task 1 pauses for a visual review of generated cue conflicts before its final analysis. They intentionally have no executed outputs. Each has `plot` and `print_metrics` configuration switches and saves small result tables/manifests under its task-specific `results/` directory. Raw datasets, caches, and checkpoints are excluded from Git.
 
 ## Setup and data
 
