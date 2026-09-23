@@ -1,0 +1,98 @@
+[
+  {
+    "model": "resnet",
+    "pixels": 0,
+    "accuracy": 0.954,
+    "consistency": 1.0
+  },
+  {
+    "model": "resnet",
+    "pixels": 8,
+    "accuracy": 0.954,
+    "consistency": 0.9860000014305115
+  },
+  {
+    "model": "resnet",
+    "pixels": 16,
+    "accuracy": 0.956,
+    "consistency": 0.9884999990463257
+  },
+  {
+    "model": "resnet",
+    "pixels": 32,
+    "accuracy": 0.948,
+    "consistency": 0.9775000214576721
+  },
+  {
+    "model": "vit",
+    "pixels": 0,
+    "accuracy": 0.97,
+    "consistency": 1.0
+  },
+  {
+    "model": "vit",
+    "pixels": 8,
+    "accuracy": 0.97,
+    "consistency": 0.9819999933242798
+  },
+  {
+    "model": "vit",
+    "pixels": 16,
+    "accuracy": 0.9684999999999999,
+    "consistency": 0.9865000247955322
+  },
+  {
+    "model": "vit",
+    "pixels": 32,
+    "accuracy": 0.9614999999999999,
+    "consistency": 0.9785000085830688
+  },
+  {
+    "model": "clip",
+    "pixels": 0,
+    "accuracy": 0.974,
+    "consistency": 1.0
+  },
+  {
+    "model": "clip",
+    "pixels": 8,
+    "accuracy": 0.966,
+    "consistency": 0.9854999780654907
+  },
+  {
+    "model": "clip",
+    "pixels": 16,
+    "accuracy": 0.9615,
+    "consistency": 0.9810000061988831
+  },
+  {
+    "model": "clip",
+    "pixels": 32,
+    "accuracy": 0.954,
+    "consistency": 0.9760000109672546
+  },
+  {
+    "model": "clip_zero_shot",
+    "pixels": 0,
+    "accuracy": 0.958,
+    "consistency": 1.0
+  },
+  {
+    "model": "clip_zero_shot",
+    "pixels": 8,
+    "accuracy": 0.9489999999999998,
+    "consistency": 0.9785000085830688
+  },
+  {
+    "model": "clip_zero_shot",
+    "pixels": 16,
+    "accuracy": 0.9435,
+    "consistency": 0.9704999923706055
+  },
+  {
+    "model": "clip_zero_shot",
+    "pixels": 32,
+    "accuracy": 0.936,
+    "consistency": 0.9714999794960022
+  }
+]

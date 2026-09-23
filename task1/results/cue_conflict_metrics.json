@@ -1,0 +1,34 @@
+[
+  {
+    "model": "resnet",
+    "shape": 155,
+    "texture": 79,
+    "other": 66,
+    "shape_bias_percent": 66.23931623931624,
+    "coverage_percent": 78.0
+  },
+  {
+    "model": "vit",
+    "shape": 224,
+    "texture": 25,
+    "other": 51,
+    "shape_bias_percent": 89.95983935742971,
+    "coverage_percent": 83.0
+  },
+  {
+    "model": "clip",
+    "shape": 176,
+    "texture": 14,
+    "other": 110,
+    "shape_bias_percent": 92.63157894736842,
+    "coverage_percent": 63.333333333333336
+  },
+  {
+    "model": "clip_zero_shot",
+    "shape": 216,
+    "texture": 38,
+    "other": 46,
+    "shape_bias_percent": 85.03937007874016,
+    "coverage_percent": 84.66666666666667
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "accepted": 300,
+  "rejected": 53,
+  "rule": "Reject if content object is not recognizable or style texture is not visibly transferred; never use predictions."
+}

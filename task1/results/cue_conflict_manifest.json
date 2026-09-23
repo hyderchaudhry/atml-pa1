@@ -1,0 +1,4502 @@
+[
+  {
+    "content_id": 5109,
+    "style_id": 5608,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5109_5608.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1483,
+    "style_id": 7947,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_1483_7947.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2903,
+    "style_id": 994,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_2903_994.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 930,
+    "style_id": 972,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_930_972.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 315,
+    "style_id": 6739,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_315_6739.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6775,
+    "style_id": 7016,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_6775_7016.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4501,
+    "style_id": 2165,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4501_2165.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7482,
+    "style_id": 6564,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7482_6564.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1811,
+    "style_id": 7742,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_1811_7742.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7112,
+    "style_id": 1659,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7112_1659.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4942,
+    "style_id": 281,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4942_281.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7297,
+    "style_id": 6990,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7297_6990.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2616,
+    "style_id": 5020,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_2616_5020.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2629,
+    "style_id": 473,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_2629_473.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3987,
+    "style_id": 4987,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3987_4987.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5534,
+    "style_id": 7144,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5534_7144.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5757,
+    "style_id": 3370,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5757_3370.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3940,
+    "style_id": 2957,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3940_2957.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7857,
+    "style_id": 3575,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7857_3575.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3057,
+    "style_id": 4527,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3057_4527.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 10,
+    "style_id": 3402,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_10_3402.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5948,
+    "style_id": 3772,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5948_3772.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7128,
+    "style_id": 61,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7128_61.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7093,
+    "style_id": 1125,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7093_1125.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5085,
+    "style_id": 596,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5085_596.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6455,
+    "style_id": 5093,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_6455_5093.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5776,
+    "style_id": 2471,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5776_2471.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3285,
+    "style_id": 2873,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3285_2873.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2644,
+    "style_id": 4580,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_2644_4580.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4761,
+    "style_id": 6594,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4761_6594.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3544,
+    "style_id": 5427,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3544_5427.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5930,
+    "style_id": 7805,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5930_7805.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5438,
+    "style_id": 6889,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5438_6889.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7687,
+    "style_id": 7988,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7687_7988.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4218,
+    "style_id": 6873,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4218_6873.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5997,
+    "style_id": 1872,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5997_1872.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3433,
+    "style_id": 7725,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3433_7725.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 657,
+    "style_id": 6710,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_657_6710.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4427,
+    "style_id": 7011,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4427_7011.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 244,
+    "style_id": 7033,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_244_7033.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1377,
+    "style_id": 982,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_1377_982.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4785,
+    "style_id": 2677,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4785_2677.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5423,
+    "style_id": 4591,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_5423_4591.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 712,
+    "style_id": 5207,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_712_5207.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7849,
+    "style_id": 7824,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7849_7824.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4533,
+    "style_id": 6794,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_4533_6794.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1490,
+    "style_id": 5031,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_1490_5031.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7162,
+    "style_id": 2931,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7162_2931.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7877,
+    "style_id": 6571,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_7877_6571.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3668,
+    "style_id": 1638,
+    "shape_label": 0,
+    "texture_label": 1,
+    "image_file": "conflict_3668_1638.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5608,
+    "style_id": 5109,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_5608_5109.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7947,
+    "style_id": 1483,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7947_1483.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 994,
+    "style_id": 2903,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_994_2903.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 972,
+    "style_id": 930,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_972_930.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6739,
+    "style_id": 315,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6739_315.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7016,
+    "style_id": 6775,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7016_6775.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2165,
+    "style_id": 4501,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_2165_4501.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6564,
+    "style_id": 7482,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6564_7482.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7742,
+    "style_id": 1811,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7742_1811.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1659,
+    "style_id": 7112,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_1659_7112.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 281,
+    "style_id": 4942,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_281_4942.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6990,
+    "style_id": 7297,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6990_7297.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5020,
+    "style_id": 2616,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_5020_2616.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 473,
+    "style_id": 2629,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_473_2629.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4987,
+    "style_id": 3987,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_4987_3987.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7144,
+    "style_id": 5534,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7144_5534.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3370,
+    "style_id": 5757,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_3370_5757.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2957,
+    "style_id": 3940,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_2957_3940.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3575,
+    "style_id": 7857,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_3575_7857.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4527,
+    "style_id": 3057,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_4527_3057.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3402,
+    "style_id": 10,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_3402_10.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3772,
+    "style_id": 5948,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_3772_5948.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 61,
+    "style_id": 7128,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_61_7128.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1125,
+    "style_id": 7093,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_1125_7093.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 596,
+    "style_id": 5085,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_596_5085.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5093,
+    "style_id": 6455,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_5093_6455.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2471,
+    "style_id": 5776,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_2471_5776.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2873,
+    "style_id": 3285,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_2873_3285.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4580,
+    "style_id": 2644,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_4580_2644.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6594,
+    "style_id": 4761,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6594_4761.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5427,
+    "style_id": 3544,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_5427_3544.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7805,
+    "style_id": 5930,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7805_5930.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6889,
+    "style_id": 5438,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6889_5438.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7988,
+    "style_id": 7687,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7988_7687.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6873,
+    "style_id": 4218,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6873_4218.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1872,
+    "style_id": 5997,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_1872_5997.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7725,
+    "style_id": 3433,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7725_3433.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6710,
+    "style_id": 657,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6710_657.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7011,
+    "style_id": 4427,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7011_4427.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7033,
+    "style_id": 244,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7033_244.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 982,
+    "style_id": 1377,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_982_1377.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2677,
+    "style_id": 4785,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_2677_4785.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4591,
+    "style_id": 5423,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_4591_5423.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5207,
+    "style_id": 712,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_5207_712.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7824,
+    "style_id": 7849,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_7824_7849.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6794,
+    "style_id": 4533,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6794_4533.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5031,
+    "style_id": 1490,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_5031_1490.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2931,
+    "style_id": 7162,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_2931_7162.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6571,
+    "style_id": 7877,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_6571_7877.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1638,
+    "style_id": 3668,
+    "shape_label": 1,
+    "texture_label": 0,
+    "image_file": "conflict_1638_3668.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1686,
+    "style_id": 1515,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1686_1515.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1323,
+    "style_id": 7531,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1323_7531.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2290,
+    "style_id": 1652,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_2290_1652.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1045,
+    "style_id": 7148,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1045_7148.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4183,
+    "style_id": 2682,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_4183_2682.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1056,
+    "style_id": 5284,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1056_5284.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3750,
+    "style_id": 6631,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_3750_6631.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5395,
+    "style_id": 3318,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_5395_3318.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5610,
+    "style_id": 1049,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_5610_1049.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 515,
+    "style_id": 5261,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_515_5261.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2571,
+    "style_id": 3439,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_2571_3439.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5956,
+    "style_id": 7809,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_5956_7809.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7545,
+    "style_id": 7486,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7545_7486.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4587,
+    "style_id": 3384,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_4587_3384.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4428,
+    "style_id": 2319,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_4428_2319.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 981,
+    "style_id": 5799,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_981_5799.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6117,
+    "style_id": 2257,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6117_2257.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7433,
+    "style_id": 7311,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7433_7311.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3600,
+    "style_id": 2692,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_3600_2692.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1814,
+    "style_id": 2325,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1814_2325.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1963,
+    "style_id": 4854,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1963_4854.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1784,
+    "style_id": 7443,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1784_7443.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1727,
+    "style_id": 745,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1727_745.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5002,
+    "style_id": 6657,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_5002_6657.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6461,
+    "style_id": 3271,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6461_3271.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6850,
+    "style_id": 1493,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6850_1493.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4109,
+    "style_id": 2036,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_4109_2036.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3041,
+    "style_id": 4581,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_3041_4581.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2606,
+    "style_id": 263,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_2606_263.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6205,
+    "style_id": 7694,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6205_7694.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7151,
+    "style_id": 7048,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7151_7048.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 631,
+    "style_id": 3407,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_631_3407.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4266,
+    "style_id": 210,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_4266_210.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5418,
+    "style_id": 1543,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_5418_1543.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7590,
+    "style_id": 7428,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7590_7428.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7934,
+    "style_id": 1399,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7934_1399.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2909,
+    "style_id": 4329,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_2909_4329.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1231,
+    "style_id": 6492,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1231_6492.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7247,
+    "style_id": 2627,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7247_2627.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7567,
+    "style_id": 5360,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_7567_5360.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 517,
+    "style_id": 4667,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_517_4667.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 267,
+    "style_id": 5786,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_267_5786.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3337,
+    "style_id": 320,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_3337_320.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1257,
+    "style_id": 2234,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_1257_2234.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 470,
+    "style_id": 34,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_470_34.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6646,
+    "style_id": 7763,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6646_7763.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 264,
+    "style_id": 2012,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_264_2012.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6069,
+    "style_id": 197,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6069_197.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6491,
+    "style_id": 3687,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_6491_3687.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3132,
+    "style_id": 6660,
+    "shape_label": 2,
+    "texture_label": 9,
+    "image_file": "conflict_3132_6660.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1515,
+    "style_id": 1686,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_1515_1686.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7531,
+    "style_id": 1323,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7531_1323.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1652,
+    "style_id": 2290,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_1652_2290.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7148,
+    "style_id": 1045,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7148_1045.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2682,
+    "style_id": 4183,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2682_4183.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5284,
+    "style_id": 1056,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_5284_1056.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6631,
+    "style_id": 3750,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_6631_3750.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3318,
+    "style_id": 5395,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_3318_5395.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1049,
+    "style_id": 5610,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_1049_5610.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5261,
+    "style_id": 515,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_5261_515.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3439,
+    "style_id": 2571,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_3439_2571.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7809,
+    "style_id": 5956,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7809_5956.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7486,
+    "style_id": 7545,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7486_7545.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3384,
+    "style_id": 4587,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_3384_4587.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2319,
+    "style_id": 4428,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2319_4428.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5799,
+    "style_id": 981,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_5799_981.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2257,
+    "style_id": 6117,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2257_6117.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7311,
+    "style_id": 7433,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7311_7433.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2692,
+    "style_id": 3600,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2692_3600.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2325,
+    "style_id": 1814,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2325_1814.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4854,
+    "style_id": 1963,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_4854_1963.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7443,
+    "style_id": 1784,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7443_1784.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 745,
+    "style_id": 1727,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_745_1727.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6657,
+    "style_id": 5002,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_6657_5002.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3271,
+    "style_id": 6461,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_3271_6461.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1493,
+    "style_id": 6850,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_1493_6850.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2036,
+    "style_id": 4109,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2036_4109.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4581,
+    "style_id": 3041,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_4581_3041.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 263,
+    "style_id": 2606,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_263_2606.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7694,
+    "style_id": 6205,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7694_6205.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7048,
+    "style_id": 7151,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7048_7151.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3407,
+    "style_id": 631,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_3407_631.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 210,
+    "style_id": 4266,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_210_4266.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1543,
+    "style_id": 5418,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_1543_5418.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7428,
+    "style_id": 7590,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7428_7590.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1399,
+    "style_id": 7934,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_1399_7934.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4329,
+    "style_id": 2909,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_4329_2909.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6492,
+    "style_id": 1231,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_6492_1231.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2627,
+    "style_id": 7247,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2627_7247.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5360,
+    "style_id": 7567,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_5360_7567.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4667,
+    "style_id": 517,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_4667_517.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5786,
+    "style_id": 267,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_5786_267.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 320,
+    "style_id": 3337,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_320_3337.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2234,
+    "style_id": 1257,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2234_1257.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 34,
+    "style_id": 470,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_34_470.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7763,
+    "style_id": 6646,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_7763_6646.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2012,
+    "style_id": 264,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_2012_264.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 197,
+    "style_id": 6069,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_197_6069.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3687,
+    "style_id": 6491,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_3687_6491.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6660,
+    "style_id": 3132,
+    "shape_label": 9,
+    "texture_label": 2,
+    "image_file": "conflict_6660_3132.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 534,
+    "style_id": 1600,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_534_1600.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1089,
+    "style_id": 4179,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1089_4179.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1390,
+    "style_id": 2008,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1390_2008.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 601,
+    "style_id": 2499,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_601_2499.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6865,
+    "style_id": 4553,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_6865_4553.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7612,
+    "style_id": 5466,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_7612_5466.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 5914,
+    "style_id": 7474,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5914_7474.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1102,
+    "style_id": 2130,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1102_2130.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7685,
+    "style_id": 7040,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_7685_7040.png",
+    "accepted": false,
+    "rejection_reason": "style texture not visibly transferred"
+  },
+  {
+    "content_id": 6228,
+    "style_id": 6831,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_6228_6831.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 810,
+    "style_id": 5090,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_810_5090.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5898,
+    "style_id": 3657,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5898_3657.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 546,
+    "style_id": 676,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_546_676.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7497,
+    "style_id": 6613,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_7497_6613.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2428,
+    "style_id": 6959,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_2428_6959.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 4967,
+    "style_id": 2348,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_4967_2348.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 6635,
+    "style_id": 99,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_6635_99.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 7238,
+    "style_id": 6729,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_7238_6729.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6094,
+    "style_id": 6610,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_6094_6610.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 2045,
+    "style_id": 4444,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_2045_4444.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5944,
+    "style_id": 1660,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5944_1660.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2785,
+    "style_id": 561,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_2785_561.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5114,
+    "style_id": 4412,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5114_4412.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 4807,
+    "style_id": 3450,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_4807_3450.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2784,
+    "style_id": 7750,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_2784_7750.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 435,
+    "style_id": 481,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_435_481.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6389,
+    "style_id": 814,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_6389_814.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 3497,
+    "style_id": 2061,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_3497_2061.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 1896,
+    "style_id": 6396,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1896_6396.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7899,
+    "style_id": 523,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_7899_523.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 163,
+    "style_id": 6700,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_163_6700.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 3336,
+    "style_id": 6843,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_3336_6843.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5913,
+    "style_id": 2582,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5913_2582.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4447,
+    "style_id": 7397,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_4447_7397.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 505,
+    "style_id": 1682,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_505_1682.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3338,
+    "style_id": 577,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_3338_577.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5012,
+    "style_id": 685,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5012_685.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1961,
+    "style_id": 3353,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1961_3353.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 495,
+    "style_id": 5864,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_495_5864.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2857,
+    "style_id": 3224,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_2857_3224.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5787,
+    "style_id": 2353,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5787_2353.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3340,
+    "style_id": 4574,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_3340_4574.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1466,
+    "style_id": 378,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1466_378.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1213,
+    "style_id": 5800,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_1213_5800.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7522,
+    "style_id": 6900,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_7522_6900.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 662,
+    "style_id": 5003,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_662_5003.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3579,
+    "style_id": 5884,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_3579_5884.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6751,
+    "style_id": 7848,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_6751_7848.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5634,
+    "style_id": 574,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_5634_574.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4433,
+    "style_id": 1738,
+    "shape_label": 3,
+    "texture_label": 5,
+    "image_file": "conflict_4433_1738.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1600,
+    "style_id": 534,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_1600_534.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4179,
+    "style_id": 1089,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_4179_1089.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2008,
+    "style_id": 1390,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2008_1390.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2499,
+    "style_id": 601,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2499_601.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 4553,
+    "style_id": 6865,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_4553_6865.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5466,
+    "style_id": 7612,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_5466_7612.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7474,
+    "style_id": 5914,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_7474_5914.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2130,
+    "style_id": 1102,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2130_1102.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7040,
+    "style_id": 7685,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_7040_7685.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6831,
+    "style_id": 6228,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6831_6228.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5090,
+    "style_id": 810,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_5090_810.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3657,
+    "style_id": 5898,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_3657_5898.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 676,
+    "style_id": 546,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_676_546.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6613,
+    "style_id": 7497,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6613_7497.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6959,
+    "style_id": 2428,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6959_2428.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2348,
+    "style_id": 4967,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2348_4967.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 99,
+    "style_id": 6635,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_99_6635.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 6729,
+    "style_id": 7238,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6729_7238.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6610,
+    "style_id": 6094,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6610_6094.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 4444,
+    "style_id": 2045,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_4444_2045.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1660,
+    "style_id": 5944,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_1660_5944.png",
+    "accepted": false,
+    "rejection_reason": "style texture not visibly transferred"
+  },
+  {
+    "content_id": 561,
+    "style_id": 2785,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_561_2785.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4412,
+    "style_id": 5114,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_4412_5114.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3450,
+    "style_id": 4807,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_3450_4807.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7750,
+    "style_id": 2784,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_7750_2784.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 481,
+    "style_id": 435,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_481_435.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 814,
+    "style_id": 6389,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_814_6389.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2061,
+    "style_id": 3497,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2061_3497.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6396,
+    "style_id": 1896,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6396_1896.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 523,
+    "style_id": 7899,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_523_7899.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6700,
+    "style_id": 163,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6700_163.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6843,
+    "style_id": 3336,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6843_3336.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2582,
+    "style_id": 5913,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2582_5913.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7397,
+    "style_id": 4447,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_7397_4447.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1682,
+    "style_id": 505,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_1682_505.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 577,
+    "style_id": 3338,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_577_3338.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 685,
+    "style_id": 5012,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_685_5012.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3353,
+    "style_id": 1961,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_3353_1961.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5864,
+    "style_id": 495,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_5864_495.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3224,
+    "style_id": 2857,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_3224_2857.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2353,
+    "style_id": 5787,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_2353_5787.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4574,
+    "style_id": 3340,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_4574_3340.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 378,
+    "style_id": 1466,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_378_1466.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5800,
+    "style_id": 1213,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_5800_1213.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6900,
+    "style_id": 7522,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_6900_7522.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5003,
+    "style_id": 662,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_5003_662.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5884,
+    "style_id": 3579,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_5884_3579.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7848,
+    "style_id": 6751,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_7848_6751.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 574,
+    "style_id": 5634,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_574_5634.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1738,
+    "style_id": 4433,
+    "shape_label": 5,
+    "texture_label": 3,
+    "image_file": "conflict_1738_4433.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 508,
+    "style_id": 7028,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_508_7028.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 5205,
+    "style_id": 4534,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_5205_4534.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2064,
+    "style_id": 2096,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2064_2096.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2293,
+    "style_id": 4613,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2293_4613.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6508,
+    "style_id": 7585,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_6508_7585.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7278,
+    "style_id": 1360,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7278_1360.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3504,
+    "style_id": 7530,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_3504_7530.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7940,
+    "style_id": 1704,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7940_1704.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1248,
+    "style_id": 3368,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_1248_3368.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4053,
+    "style_id": 4011,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4053_4011.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1474,
+    "style_id": 3201,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_1474_3201.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2671,
+    "style_id": 4337,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2671_4337.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4496,
+    "style_id": 1492,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4496_1492.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 223,
+    "style_id": 2403,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_223_2403.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4656,
+    "style_id": 5084,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4656_5084.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 2906,
+    "style_id": 5115,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2906_5115.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5675,
+    "style_id": 1207,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_5675_1207.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 2488,
+    "style_id": 2864,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2488_2864.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6623,
+    "style_id": 1143,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_6623_1143.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 767,
+    "style_id": 6582,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_767_6582.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3837,
+    "style_id": 3182,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_3837_3182.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2704,
+    "style_id": 6304,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2704_6304.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 863,
+    "style_id": 4826,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_863_4826.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3627,
+    "style_id": 2680,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_3627_2680.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 5397,
+    "style_id": 6899,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_5397_6899.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 6539,
+    "style_id": 7948,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_6539_7948.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 4315,
+    "style_id": 6520,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4315_6520.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4929,
+    "style_id": 425,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4929_425.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7245,
+    "style_id": 2863,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7245_2863.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 206,
+    "style_id": 4504,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_206_4504.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4338,
+    "style_id": 6892,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4338_6892.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6036,
+    "style_id": 431,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_6036_431.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7737,
+    "style_id": 4411,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7737_4411.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7568,
+    "style_id": 7996,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7568_7996.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6357,
+    "style_id": 1636,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_6357_1636.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6587,
+    "style_id": 7215,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_6587_7215.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1075,
+    "style_id": 4691,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_1075_4691.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3840,
+    "style_id": 5208,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_3840_5208.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 761,
+    "style_id": 2223,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_761_2223.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5804,
+    "style_id": 3448,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_5804_3448.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7409,
+    "style_id": 1602,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7409_1602.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2875,
+    "style_id": 449,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_2875_449.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4970,
+    "style_id": 4542,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_4970_4542.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7051,
+    "style_id": 2473,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7051_2473.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1211,
+    "style_id": 6243,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_1211_6243.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7560,
+    "style_id": 1932,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7560_1932.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7765,
+    "style_id": 4875,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7765_4875.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 594,
+    "style_id": 7649,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_594_7649.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7595,
+    "style_id": 1544,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_7595_1544.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 433,
+    "style_id": 6042,
+    "shape_label": 4,
+    "texture_label": 6,
+    "image_file": "conflict_433_6042.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7028,
+    "style_id": 508,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7028_508.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4534,
+    "style_id": 5205,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4534_5205.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable"
+  },
+  {
+    "content_id": 2096,
+    "style_id": 2064,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2096_2064.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4613,
+    "style_id": 2293,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4613_2293.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7585,
+    "style_id": 6508,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7585_6508.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1360,
+    "style_id": 7278,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1360_7278.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7530,
+    "style_id": 3504,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7530_3504.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1704,
+    "style_id": 7940,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1704_7940.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3368,
+    "style_id": 1248,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_3368_1248.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4011,
+    "style_id": 4053,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4011_4053.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3201,
+    "style_id": 1474,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_3201_1474.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4337,
+    "style_id": 2671,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4337_2671.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1492,
+    "style_id": 4496,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1492_4496.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2403,
+    "style_id": 223,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2403_223.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5084,
+    "style_id": 4656,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_5084_4656.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5115,
+    "style_id": 2906,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_5115_2906.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1207,
+    "style_id": 5675,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1207_5675.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 2864,
+    "style_id": 2488,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2864_2488.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1143,
+    "style_id": 6623,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1143_6623.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 6582,
+    "style_id": 767,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6582_767.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3182,
+    "style_id": 3837,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_3182_3837.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 6304,
+    "style_id": 2704,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6304_2704.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4826,
+    "style_id": 863,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4826_863.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2680,
+    "style_id": 3627,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2680_3627.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6899,
+    "style_id": 5397,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6899_5397.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7948,
+    "style_id": 6539,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7948_6539.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6520,
+    "style_id": 4315,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6520_4315.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 425,
+    "style_id": 4929,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_425_4929.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2863,
+    "style_id": 7245,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2863_7245.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4504,
+    "style_id": 206,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4504_206.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6892,
+    "style_id": 4338,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6892_4338.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 431,
+    "style_id": 6036,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_431_6036.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4411,
+    "style_id": 7737,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4411_7737.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7996,
+    "style_id": 7568,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7996_7568.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1636,
+    "style_id": 6357,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1636_6357.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7215,
+    "style_id": 6587,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7215_6587.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4691,
+    "style_id": 1075,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4691_1075.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5208,
+    "style_id": 3840,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_5208_3840.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2223,
+    "style_id": 761,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2223_761.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3448,
+    "style_id": 5804,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_3448_5804.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1602,
+    "style_id": 7409,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1602_7409.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 449,
+    "style_id": 2875,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_449_2875.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4542,
+    "style_id": 4970,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4542_4970.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2473,
+    "style_id": 7051,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_2473_7051.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6243,
+    "style_id": 1211,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6243_1211.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1932,
+    "style_id": 7560,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1932_7560.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4875,
+    "style_id": 7765,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_4875_7765.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7649,
+    "style_id": 594,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_7649_594.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1544,
+    "style_id": 7595,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_1544_7595.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6042,
+    "style_id": 433,
+    "shape_label": 6,
+    "texture_label": 4,
+    "image_file": "conflict_6042_433.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 722,
+    "style_id": 5038,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_722_5038.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1237,
+    "style_id": 2055,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1237_2055.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 620,
+    "style_id": 539,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_620_539.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6456,
+    "style_id": 6353,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6456_6353.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 3766,
+    "style_id": 5376,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3766_5376.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 2905,
+    "style_id": 3099,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_2905_3099.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3665,
+    "style_id": 7323,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3665_7323.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2916,
+    "style_id": 4844,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_2916_4844.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1619,
+    "style_id": 2426,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1619_2426.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 6598,
+    "style_id": 6253,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6598_6253.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 4149,
+    "style_id": 3943,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_4149_3943.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7276,
+    "style_id": 6643,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7276_6643.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1421,
+    "style_id": 5134,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1421_5134.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6299,
+    "style_id": 6274,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6299_6274.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6663,
+    "style_id": 2378,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6663_2378.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7438,
+    "style_id": 6940,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7438_6940.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1631,
+    "style_id": 955,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1631_955.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5105,
+    "style_id": 6377,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5105_6377.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7389,
+    "style_id": 318,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7389_318.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6482,
+    "style_id": 3315,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6482_3315.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 1821,
+    "style_id": 7359,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1821_7359.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4704,
+    "style_id": 492,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_4704_492.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5604,
+    "style_id": 1683,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5604_1683.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 3192,
+    "style_id": 4082,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3192_4082.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5710,
+    "style_id": 6147,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5710_6147.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7581,
+    "style_id": 5727,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7581_5727.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7602,
+    "style_id": 7720,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7602_7720.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3032,
+    "style_id": 4797,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3032_4797.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3956,
+    "style_id": 706,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3956_706.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5719,
+    "style_id": 1021,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5719_1021.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7919,
+    "style_id": 7325,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7919_7325.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 29,
+    "style_id": 1628,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_29_1628.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3541,
+    "style_id": 1777,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3541_1777.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3446,
+    "style_id": 3955,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_3446_3955.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4308,
+    "style_id": 678,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_4308_678.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 468,
+    "style_id": 6996,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_468_6996.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2262,
+    "style_id": 453,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_2262_453.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6323,
+    "style_id": 1448,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6323_1448.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1681,
+    "style_id": 229,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1681_229.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5200,
+    "style_id": 5649,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5200_5649.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2596,
+    "style_id": 6286,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_2596_6286.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1190,
+    "style_id": 2327,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1190_2327.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1452,
+    "style_id": 2211,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1452_2211.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7057,
+    "style_id": 4311,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_7057_4311.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6971,
+    "style_id": 5032,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6971_5032.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5595,
+    "style_id": 6835,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5595_6835.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5813,
+    "style_id": 4528,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_5813_4528.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4222,
+    "style_id": 652,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_4222_652.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1372,
+    "style_id": 6689,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_1372_6689.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6254,
+    "style_id": 3445,
+    "shape_label": 7,
+    "texture_label": 8,
+    "image_file": "conflict_6254_3445.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5038,
+    "style_id": 722,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_5038_722.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2055,
+    "style_id": 1237,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_2055_1237.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 539,
+    "style_id": 620,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_539_620.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 6353,
+    "style_id": 6456,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6353_6456.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 5376,
+    "style_id": 3766,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_5376_3766.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3099,
+    "style_id": 2905,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_3099_2905.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7323,
+    "style_id": 3665,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_7323_3665.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4844,
+    "style_id": 2916,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_4844_2916.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 2426,
+    "style_id": 1619,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_2426_1619.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6253,
+    "style_id": 6598,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6253_6598.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3943,
+    "style_id": 4149,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_3943_4149.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 6643,
+    "style_id": 7276,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6643_7276.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5134,
+    "style_id": 1421,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_5134_1421.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6274,
+    "style_id": 6299,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6274_6299.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2378,
+    "style_id": 6663,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_2378_6663.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6940,
+    "style_id": 7438,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6940_7438.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 955,
+    "style_id": 1631,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_955_1631.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6377,
+    "style_id": 5105,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6377_5105.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 318,
+    "style_id": 7389,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_318_7389.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3315,
+    "style_id": 6482,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_3315_6482.png",
+    "accepted": false,
+    "rejection_reason": "content object not recognizable and style texture not visibly transferred"
+  },
+  {
+    "content_id": 7359,
+    "style_id": 1821,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_7359_1821.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 492,
+    "style_id": 4704,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_492_4704.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1683,
+    "style_id": 5604,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_1683_5604.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4082,
+    "style_id": 3192,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_4082_3192.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6147,
+    "style_id": 5710,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6147_5710.png",
+    "accepted": true,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5727,
+    "style_id": 7581,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_5727_7581.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7720,
+    "style_id": 7602,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_7720_7602.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4797,
+    "style_id": 3032,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_4797_3032.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 706,
+    "style_id": 3956,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_706_3956.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1021,
+    "style_id": 5719,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_1021_5719.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 7325,
+    "style_id": 7919,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_7325_7919.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1628,
+    "style_id": 29,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_1628_29.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1777,
+    "style_id": 3541,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_1777_3541.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3955,
+    "style_id": 3446,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_3955_3446.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 678,
+    "style_id": 4308,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_678_4308.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6996,
+    "style_id": 468,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6996_468.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 453,
+    "style_id": 2262,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_453_2262.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 1448,
+    "style_id": 6323,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_1448_6323.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 229,
+    "style_id": 1681,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_229_1681.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5649,
+    "style_id": 5200,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_5649_5200.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6286,
+    "style_id": 2596,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6286_2596.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2327,
+    "style_id": 1190,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_2327_1190.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 2211,
+    "style_id": 1452,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_2211_1452.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4311,
+    "style_id": 7057,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_4311_7057.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 5032,
+    "style_id": 6971,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_5032_6971.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6835,
+    "style_id": 5595,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6835_5595.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 4528,
+    "style_id": 5813,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_4528_5813.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 652,
+    "style_id": 4222,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_652_4222.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 6689,
+    "style_id": 1372,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_6689_1372.png",
+    "accepted": null,
+    "rejection_reason": null
+  },
+  {
+    "content_id": 3445,
+    "style_id": 6254,
+    "shape_label": 8,
+    "texture_label": 7,
+    "image_file": "conflict_3445_6254.png",
+    "accepted": null,
+    "rejection_reason": null
+  }
+]

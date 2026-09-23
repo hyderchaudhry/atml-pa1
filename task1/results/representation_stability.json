@@ -1,0 +1,62 @@
+[
+  {
+    "backbone": "resnet",
+    "intervention": "grayscale",
+    "cosine_stability": 0.776443362236023
+  },
+  {
+    "backbone": "resnet",
+    "intervention": "cue_conflict",
+    "cosine_stability": 0.42071592807769775
+  },
+  {
+    "backbone": "resnet",
+    "intervention": "translation_32_right",
+    "cosine_stability": 0.9265816807746887
+  },
+  {
+    "backbone": "resnet",
+    "intervention": "patch_shuffle",
+    "cosine_stability": 0.7046918272972107
+  },
+  {
+    "backbone": "vit",
+    "intervention": "grayscale",
+    "cosine_stability": 0.7371143102645874
+  },
+  {
+    "backbone": "vit",
+    "intervention": "cue_conflict",
+    "cosine_stability": 0.43300867080688477
+  },
+  {
+    "backbone": "vit",
+    "intervention": "translation_32_right",
+    "cosine_stability": 0.9426198601722717
+  },
+  {
+    "backbone": "vit",
+    "intervention": "patch_shuffle",
+    "cosine_stability": 0.665870726108551
+  },
+  {
+    "backbone": "clip",
+    "intervention": "grayscale",
+    "cosine_stability": 0.8939194083213806
+  },
+  {
+    "backbone": "clip",
+    "intervention": "cue_conflict",
+    "cosine_stability": 0.7346160411834717
+  },
+  {
+    "backbone": "clip",
+    "intervention": "translation_32_right",
+    "cosine_stability": 0.9597331285476685
+  },
+  {
+    "backbone": "clip",
+    "intervention": "patch_shuffle",
+    "cosine_stability": 0.7242615222930908
+  }
+]
