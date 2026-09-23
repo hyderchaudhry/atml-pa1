@@ -10,3 +10,4 @@ seaborn
 Pillow
 scipy
 tqdm
+datasets
