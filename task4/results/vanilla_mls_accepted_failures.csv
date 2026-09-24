@@ -1,0 +1,7 @@
+group,cifar100_test_index,unknown_class,predicted_cifar10_class,mls_unknownness,threshold
+near,17,wolf,dog,-8.858221054077148,-5.669717311859131
+near,36,pickup_truck,truck,-7.066296577453613,-5.669717311859131
+near,47,pickup_truck,truck,-8.340262413024902,-5.669717311859131
+far,26,keyboard,ship,-6.072743892669678,-5.669717311859131
+far,30,chair,airplane,-5.881196975708008,-5.669717311859131
+far,52,bottle,bird,-6.611177921295166,-5.669717311859131
