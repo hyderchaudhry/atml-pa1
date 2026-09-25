@@ -35,4 +35,3 @@ Task 1 is designed to call the public [pytorch-AdaIN](https://github.com/naoto08
 
 The methods implemented from their papers are: Ganin et al., *Domain-Adversarial Training of Neural Networks* (JMLR 2016); Long et al., *Conditional Adversarial Domain Adaptation* (NeurIPS 2018); Foret et al., *Sharpness-Aware Minimization* (ICLR 2021); Vaze et al., *Open-Set Recognition: A Good Closed-Set Classifier is All You Need?* (ICLR 2022); and Zhou et al., *Learning Placeholders for Open-Set Recognition* (CVPR 2021). Task 4's PROSER section follows the loss construction described in Zhou et al.; consult the paper and its authors' reference code when comparing implementation details.
 
-No raw dataset, external implementation source, or pretrained checkpoint is committed here.
